@@ -1,0 +1,23 @@
+.korosal{
+    height: 30em;
+    background-color: gray;
+    object-fit: cover;
+}
+.card{
+    margin-top: 100px;
+}
+.rounded-circle {
+    background-color: gray;
+    width: 10em;
+    height: 10em;
+    justify-content: center;
+}
+.carousel-caption{
+    margin-bottom: 2em;
+}
+.carousel-caption h1{
+    font-size: 3rem;
+}
+.carousel-caption p{
+    font-size: 1.2em;
+}
